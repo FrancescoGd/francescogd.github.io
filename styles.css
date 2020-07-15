@@ -1,5 +1,5 @@
 ﻿body {
-  background: rgb(40,40,40  );
+  background-color: linen;
 }
 
 @media only screen and (min-width: 992px) {
@@ -19,11 +19,16 @@
 }
 
 .menu-item a:hover {
-  /* opacity: 0.8; */
   color: #0099cc;
   transition: 0.1s;
 }
 
 .profile-picture {
     width: 30% !important;
+}
+
+@media only screen and (min-width: 768px) {
+  .profile-picture {
+    width: 40% !important;
+  }
 }
