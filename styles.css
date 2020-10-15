@@ -1,4 +1,9 @@
-﻿body {
+/**
+ * Just a small stylesheet to get properly readable and pleasant colours
+ * and adjust stuff for different viewports
+ */
+ 
+body {
   background-color: linen;
 }
 
