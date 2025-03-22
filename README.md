@@ -1,4 +1,4 @@
-# francescogiordano.dev
+# francescogiordano.info
 aka
 ## francescogd.github.io
 
